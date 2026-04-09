@@ -119,7 +119,7 @@ export default function BlogPostPage({ params }: Props) {
     "publisher": {
       "@type": "Organization",
       "name": "Placer Protection Group",
-      "url": "https://placerprotectiongroup.com",
+      "url": "https://placerprotection.net",
     },
     "author": {
       "@type": "Organization",

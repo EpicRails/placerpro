@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://placerprotectiongroup.com"),
+  metadataBase: new URL("https://placerprotection.net"),
   title: {
     default: "Placer Protection Group | Private Security Services in Roseville, CA",
     template: "%s | Placer Protection Group",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://placerprotectiongroup.com",
+    url: "https://placerprotection.net",
     siteName: "Placer Protection Group",
     title: "Placer Protection Group | Private Security Services in Roseville, CA",
     description:

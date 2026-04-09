@@ -45,11 +45,11 @@ export default function ContactPage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "@id": "https://placerprotectiongroup.com",
+    "@id": "https://placerprotection.net",
     "name": "Placer Protection Group",
     "description":
       "Professional private security services in Roseville, CA — armed guards, unarmed officers, vehicle patrol, fire watch, and construction site security.",
-    "url": "https://placerprotectiongroup.com",
+    "url": "https://placerprotection.net",
     "telephone": "+19167757274",
     "email": "hello@placerprotection.net",
     "address": {
