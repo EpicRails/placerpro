@@ -140,12 +140,11 @@ export default function Footer() {
             </ul>
 
             <h4 className="text-white font-semibold text-sm uppercase tracking-wider mb-4 mt-8">
-              Availability
+              Office Hours
             </h4>
             <p className="text-sm leading-relaxed text-slate-500">
-              Dispatch available{" "}
-              <span className="text-white font-medium">24 hours a day,</span>{" "}
-              7 days a week, including holidays.
+              <span className="text-white font-medium">Mon–Fri, 9:00 AM – 5:00 PM</span><br />
+              Closed Saturday &amp; Sunday.
             </p>
           </div>
 

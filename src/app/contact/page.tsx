@@ -34,9 +34,9 @@ const contactInfo = [
   {
     icon: Clock,
     label: "Dispatch Hours",
-    value: "24 / 7 / 365",
+    value: "Mon–Fri, 9:00 AM – 5:00 PM",
     href: null,
-    sub: "Including holidays and weekends",
+    sub: "Closed Saturday & Sunday",
   },
 ];
 
@@ -72,11 +72,9 @@ export default function ContactPage() {
         "Wednesday",
         "Thursday",
         "Friday",
-        "Saturday",
-        "Sunday",
       ],
-      "opens": "00:00",
-      "closes": "23:59",
+      "opens": "09:00",
+      "closes": "17:00",
     },
     "areaServed": [
       "Roseville, CA",
@@ -214,7 +212,7 @@ export default function ContactPage() {
             Urgent security need? Call us directly.
           </h3>
           <p className="text-amber-100 text-sm mb-4">
-            Our dispatch team is available 24 hours a day, 7 days a week.
+            Our office is open Monday–Friday, 9:00 AM to 5:00 PM.
           </p>
           <a
             href="tel:+19167757274"
