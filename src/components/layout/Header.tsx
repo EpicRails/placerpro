@@ -19,7 +19,7 @@ const servicesDropdown = [
 
 const companyDropdown = [
   { label: "About Us", href: "/about" },
-  { label: "Careers", href: "/about#careers" },
+  { label: "Careers", href: "/careers" },
 ];
 
 interface NavItem {
