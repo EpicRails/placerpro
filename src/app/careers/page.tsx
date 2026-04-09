@@ -61,8 +61,8 @@ export default function CareersPage() {
               Join the Placer Protection Group Team
             </h1>
             <p className="text-slate-400 text-lg leading-relaxed">
-              We're a locally owned security company based in Roseville, CA — and
-              we're growing. We're looking for professional, reliable individuals
+              We&apos;re a locally owned security company based in Roseville, CA — and
+              we&apos;re growing. We&apos;re looking for professional, reliable individuals
               who take their role seriously and want to build a career in private security.
             </p>
           </div>
@@ -138,7 +138,7 @@ export default function CareersPage() {
                 Submit Your Application
               </h2>
               <p className="text-slate-600 text-sm leading-relaxed mb-6">
-                Fill out the form and we'll review your application. We contact
+                Fill out the form and we&apos;ll review your application. We contact
                 qualified candidates directly — no automated rejections.
               </p>
               <div
