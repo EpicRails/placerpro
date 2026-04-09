@@ -4,7 +4,7 @@ import { Shield, Phone, Mail, MapPin } from "lucide-react";
 const companyLinks = [
   { label: "About Us", href: "/about" },
   { label: "Our Team", href: "/about#team" },
-  { label: "Careers", href: "/about#careers" },
+  { label: "Careers", href: "/careers" },
   { label: "Contact", href: "/contact" },
 ];
 

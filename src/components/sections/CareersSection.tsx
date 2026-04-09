@@ -56,7 +56,7 @@ export default function CareersSection() {
                 </ul>
 
                 <Link
-                  href="/contact?subject=careers"
+                  href="/careers"
                   className="inline-flex items-center gap-2 bg-amber-600 hover:bg-amber-700 text-white font-semibold px-6 py-3 rounded-lg transition-colors text-sm"
                 >
                   Apply Now <ArrowRight size={16} />
