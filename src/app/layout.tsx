@@ -65,7 +65,7 @@ export default function RootLayout({
         <Script
           src="https://analytics.ahrefs.com/analytics.js"
           data-key="N79L6aN/lvrev8dQLaQK8g"
-          strategy="afterInteractive"
+          strategy="beforeInteractive"
         />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=AW-18034197912"
