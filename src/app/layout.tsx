@@ -63,6 +63,11 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <body className="min-h-screen bg-white flex flex-col">
         <Script
+          src="https://analytics.ahrefs.com/analytics.js"
+          data-key="N79L6aN/lvrev8dQLaQK8g"
+          strategy="afterInteractive"
+        />
+        <Script
           src="https://www.googletagmanager.com/gtag/js?id=AW-18034197912"
           strategy="afterInteractive"
         />
